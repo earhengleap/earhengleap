@@ -21,5 +21,5 @@
 </p>
 
 <p align="center">
-  📧 <a href="mailto:hengleap70@gmail.com">Email me</a> | 💼 <a href="https://www.linkedin.com/in/earhengleap/">LinkedIn</a> | 🌐 <a href="hengleap.vercel.app">Portfolio</a>
+  📧 <a href="mailto:hengleap70@gmail.com">Email me</a> | 💼 <a href="https://www.linkedin.com/in/earhengleap/">LinkedIn</a> | 🌐 <a href="https://hengleap.vercel.app/">Portfolio</a>
 </p>
