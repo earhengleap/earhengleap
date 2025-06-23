@@ -9,11 +9,11 @@
 </h3>
 
 <h4 align="center">
-  🚀 Currently working on projects in web development, iOS, and mobile apps.
+  🚀 Currently working on projects in web development.
 </h4>
 
 <p align="center">
-  💻 Technologies & Tools: Node.js, React, Firebase, Swift, MongoDB, Tailwind CSS
+  💻 Technologies & Tools: Node.js, React, Next.js, Supabase, Neon, Tailwind CSS
 </p>
 
 <p align="center">
@@ -21,5 +21,5 @@
 </p>
 
 <p align="center">
-  📧 <a href="mailto:sornsreynich@example.com">Email me</a> | 💼 <a href="https://www.linkedin.com/in/sornsreynich">LinkedIn</a> | 🌐 <a href="https://www.example.com">Portfolio</a>
+  📧 <a href="mailto:hengleap70@gmail.com">Email me</a> | 💼 <a href="https://www.linkedin.com/in/earhengleap/">LinkedIn</a> | 🌐 <a href="hengleap.vercel.app">Portfolio</a>
 </p>
