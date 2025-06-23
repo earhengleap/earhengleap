@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">
-  A passionate software engineer and business owner from Cambodia 🇰🇭
+  A passionate software engineer from Cambodia 🇰🇭
 </h3>
 
 <br />
