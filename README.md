@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  💬 Ask me about business management, software development, and the restaurant industry.
+  💬 Ask me about business management, and software development.
 </p>
 
 <p align="center">
