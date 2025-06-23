@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=earhengleap.earhengleap" />
 
 <h1 align="center">
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/earhengleap">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B+I'm+Ear+Hengleap" />
   </a>
 </h1>
@@ -9,6 +9,8 @@
 <h3 align="center">
   A passionate software engineer and business owner from Cambodia 🇰🇭
 </h3>
+
+<br />
 
 <h4 align="center">
   🚀 Currently working on projects in web development.
@@ -19,7 +21,7 @@
 </p>
 
 <p align="center">
-  💬 Ask me about business management, and software development.
+  💬 Ask me about business management, and software development... or anything 
 </p>
 
 <p align="center">
