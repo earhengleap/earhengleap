@@ -11,29 +11,35 @@
 </h1>
 
 <h3 align="center">
-  A passionate software engineer from Cambodia 🇰🇭
+  A passionate software engineer from Cambodia
 </h3>
 
 <br />
 
 <h4 align="center">
-  🚀 Currently working on projects in web development.
+  Currently working on projects in web development.
 </h4>
 
 <p align="center">
-  💻 Technologies & Tools: Node.js, React, Next.js, Supabase, Neon, Tailwind CSS
+  Technologies and Tools: Node.js, React, Next.js, Supabase, Neon, Tailwind CSS
 </p>
 
 <p align="center">
-  💬 Ask me about business management, and software development... or anything 
+  Ask me about business management and software development.
 </p>
 
 <p align="center">
-  📧 <a href="mailto:hengleap70@gmail.com">Email me</a> | 💼 <a href="https://www.linkedin.com/in/earhengleap/">LinkedIn</a> | 🌐 <a href="https://hengleap.vercel.app/">Portfolio</a>
+  <a href="mailto:hengleap70@gmail.com">Email</a> |
+  <a href="https://www.linkedin.com/in/earhengleap/">LinkedIn</a> |
+  <a href="https://hengleap.vercel.app/">Portfolio</a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/earhengleap/earhengleap/output/images/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/earhengleap/earhengleap/output/images/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/earhengleap/earhengleap/output/images/snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/earhengleap/earhengleap/output/images/snake.svg" />
+  </picture>
 </p>
