@@ -18,6 +18,9 @@ jobs:
           persist-credentials: true
           fetch-depth: 0
       
+      - name: Create images directory
+        run: mkdir -p images
+      
       - uses: Platane/snk@v3
         id: snk
         with:
