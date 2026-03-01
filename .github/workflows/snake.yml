@@ -4,19 +4,24 @@ on:
   schedule:
     - cron: "0 * * * *"
   workflow_dispatch:
-  push:
-    branches: main
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: false
+          fetch-depth: 0
+      
       - uses: Platane/snk@v3
         with:
           github_user_name: earhengleap
           svg_out_path: output/snake.svg
-      - uses: actions/upload-artifact@v4
+          
+      - name: Commit and Push
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          name: snake
-          path: output/snake.svg
+          commit_message: Update snake animation
+          file_pattern: output/snake.svg
