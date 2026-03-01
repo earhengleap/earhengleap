@@ -1,5 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=earhengleap.earhengleap" />
 
+---
+
+<br />
+
 <h1 align="center">
   <a href="https://github.com/earhengleap">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B+I'm+Ear+Hengleap" />
@@ -26,4 +30,10 @@
 
 <p align="center">
   📧 <a href="mailto:hengleap70@gmail.com">Email me</a> | 💼 <a href="https://www.linkedin.com/in/earhengleap/">LinkedIn</a> | 🌐 <a href="https://hengleap.vercel.app/">Portfolio</a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/earhengleap/earhengleap/output/snake.svg" alt="Snake animation" />
 </p>
