@@ -36,10 +36,12 @@
 
 ---
 
+## Contribution Grid Snake 🐍
+
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/earhengleap/earhengleap/output/images/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/earhengleap/earhengleap/output/images/snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/earhengleap/earhengleap/output/images/snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/earhengleap/earhengleap/output/images/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/earhengleap/earhengleap/output/images/github-contribution-grid-snake.svg" />
+    <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/earhengleap/earhengleap/output/images/github-contribution-grid-snake.svg" />
   </picture>
 </p>
