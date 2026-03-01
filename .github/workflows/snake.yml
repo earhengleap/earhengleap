@@ -24,7 +24,8 @@ jobs:
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
           target_branch: output
           build_dir: dist
