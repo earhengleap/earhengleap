@@ -44,8 +44,8 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=earhengleap&show_icons=true&rank_icon=github&hide_border=true&theme=merko&cache_seconds=86400" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=earhengleap&layout=compact&hide_border=true&theme=merko&cache_seconds=86400" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=earhengleap&theme=github_dark" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=earhengleap&theme=github_dark" />
 </p>
 
 <p align="center">
