@@ -24,17 +24,6 @@
 - Focused on scalable web applications, APIs, and maintainable systems.
 - Comfortable across frontend, backend, and integration layers.
 
-## Green Engineering Blocks
-
-<p>
-  <img src="https://img.shields.io/badge/%20-0B3D2E?style=for-the-badge&labelColor=0B3D2E" />
-  <img src="https://img.shields.io/badge/%20-145A43?style=for-the-badge&labelColor=145A43" />
-  <img src="https://img.shields.io/badge/%20-1E7A57?style=for-the-badge&labelColor=1E7A57" />
-  <img src="https://img.shields.io/badge/%20-2E9D6B?style=for-the-badge&labelColor=2E9D6B" />
-  <img src="https://img.shields.io/badge/%20-66C48D?style=for-the-badge&labelColor=66C48D" />
-  <img src="https://img.shields.io/badge/%20-9DDEB8?style=for-the-badge&labelColor=9DDEB8" />
-</p>
-
 ## Core Stack
 
 <p>
