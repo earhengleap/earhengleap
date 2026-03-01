@@ -15,17 +15,17 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - name: Generate static analytics cards
+        run: |
+          mkdir -p out/images
+          curl -fL --retry 5 --retry-delay 2 "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=earhengleap&theme=github_dark" -o out/images/gh-stats.svg
+          curl -fL --retry 5 --retry-delay 2 "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=earhengleap&theme=github_dark" -o out/images/gh-languages.svg
       - uses: Platane/snk@v3
         with:
           github_user_name: earhengleap
           outputs: |
             out/images/github-contribution-grid-snake.svg?color_snake=%232E9D6B&color_dots=%23EBEDF0,%23CDEEDB,%239DDEB8,%2366C48D,%23145A43
             out/images/github-snake-dark.svg?color_snake=%2339D353&color_dots=%23161B22,%230B3D2E,%23145A43,%231E7A57,%232E9D6B
-      - name: Generate static analytics cards
-        run: |
-          mkdir -p out/images
-          curl -fL --retry 5 --retry-delay 2 "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=earhengleap&theme=github_dark" -o out/images/gh-stats.svg
-          curl -fL --retry 5 --retry-delay 2 "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=earhengleap&theme=github_dark" -o out/images/gh-languages.svg
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
