@@ -52,6 +52,64 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=earhengleap&theme=github-dark&hide_border=true" alt="GitHub activity graph" />
 </p>
 
+## 50 Random Soft Thick Blocks
+
+<p align="center">
+  <svg viewBox="0 0 520 170" width="100%" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="50 random soft green blocks">
+    <rect x="1" y="1" width="518" height="168" rx="12" fill="#0b1410" stroke="#1e352a" />
+      <rect x="12" y="12" width="42" height="22" rx="7" fill="#e7f7ee" />
+      <rect x="62" y="12" width="42" height="22" rx="7" fill="#d6f2e2" />
+      <rect x="112" y="12" width="42" height="22" rx="7" fill="#238856" />
+      <rect x="162" y="12" width="42" height="22" rx="7" fill="#86d8ac" />
+      <rect x="212" y="12" width="42" height="22" rx="7" fill="#c3ecd5" />
+      <rect x="262" y="12" width="42" height="22" rx="7" fill="#38b173" />
+      <rect x="312" y="12" width="42" height="22" rx="7" fill="#5dca8e" />
+      <rect x="362" y="12" width="42" height="22" rx="7" fill="#9bdfba" />
+      <rect x="412" y="12" width="42" height="22" rx="7" fill="#c3ecd5" />
+      <rect x="462" y="12" width="42" height="22" rx="7" fill="#86d8ac" />
+      <rect x="12" y="42" width="42" height="22" rx="7" fill="#86d8ac" />
+      <rect x="62" y="42" width="42" height="22" rx="7" fill="#86d8ac" />
+      <rect x="112" y="42" width="42" height="22" rx="7" fill="#238856" />
+      <rect x="162" y="42" width="42" height="22" rx="7" fill="#238856" />
+      <rect x="212" y="42" width="42" height="22" rx="7" fill="#5dca8e" />
+      <rect x="262" y="42" width="42" height="22" rx="7" fill="#86d8ac" />
+      <rect x="312" y="42" width="42" height="22" rx="7" fill="#238856" />
+      <rect x="362" y="42" width="42" height="22" rx="7" fill="#86d8ac" />
+      <rect x="412" y="42" width="42" height="22" rx="7" fill="#2f9e67" />
+      <rect x="462" y="42" width="42" height="22" rx="7" fill="#238856" />
+      <rect x="12" y="72" width="42" height="22" rx="7" fill="#2f9e67" />
+      <rect x="62" y="72" width="42" height="22" rx="7" fill="#9bdfba" />
+      <rect x="112" y="72" width="42" height="22" rx="7" fill="#38b173" />
+      <rect x="162" y="72" width="42" height="22" rx="7" fill="#9bdfba" />
+      <rect x="212" y="72" width="42" height="22" rx="7" fill="#5dca8e" />
+      <rect x="262" y="72" width="42" height="22" rx="7" fill="#238856" />
+      <rect x="312" y="72" width="42" height="22" rx="7" fill="#4abf80" />
+      <rect x="362" y="72" width="42" height="22" rx="7" fill="#4abf80" />
+      <rect x="412" y="72" width="42" height="22" rx="7" fill="#c3ecd5" />
+      <rect x="462" y="72" width="42" height="22" rx="7" fill="#238856" />
+      <rect x="12" y="102" width="42" height="22" rx="7" fill="#38b173" />
+      <rect x="62" y="102" width="42" height="22" rx="7" fill="#238856" />
+      <rect x="112" y="102" width="42" height="22" rx="7" fill="#5dca8e" />
+      <rect x="162" y="102" width="42" height="22" rx="7" fill="#afe5c8" />
+      <rect x="212" y="102" width="42" height="22" rx="7" fill="#238856" />
+      <rect x="262" y="102" width="42" height="22" rx="7" fill="#5dca8e" />
+      <rect x="312" y="102" width="42" height="22" rx="7" fill="#238856" />
+      <rect x="362" y="102" width="42" height="22" rx="7" fill="#e7f7ee" />
+      <rect x="412" y="102" width="42" height="22" rx="7" fill="#4abf80" />
+      <rect x="462" y="102" width="42" height="22" rx="7" fill="#238856" />
+      <rect x="12" y="132" width="42" height="22" rx="7" fill="#c3ecd5" />
+      <rect x="62" y="132" width="42" height="22" rx="7" fill="#72d19d" />
+      <rect x="112" y="132" width="42" height="22" rx="7" fill="#238856" />
+      <rect x="162" y="132" width="42" height="22" rx="7" fill="#afe5c8" />
+      <rect x="212" y="132" width="42" height="22" rx="7" fill="#9bdfba" />
+      <rect x="262" y="132" width="42" height="22" rx="7" fill="#2f9e67" />
+      <rect x="312" y="132" width="42" height="22" rx="7" fill="#5dca8e" />
+      <rect x="362" y="132" width="42" height="22" rx="7" fill="#e7f7ee" />
+      <rect x="412" y="132" width="42" height="22" rx="7" fill="#9bdfba" />
+      <rect x="462" y="132" width="42" height="22" rx="7" fill="#86d8ac" />
+  </svg>
+</p>
+
 ## Contribution Grid Snake
 
 <p align="center">
