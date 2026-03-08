@@ -44,8 +44,8 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://raw.githubusercontent.com/earhengleap/earhengleap/output/images/gh-stats.svg" alt="GitHub stats card" />
-  <img height="170" src="https://raw.githubusercontent.com/earhengleap/earhengleap/output/images/gh-languages.svg" alt="GitHub languages card" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=earhengleap&theme=github_dark" alt="GitHub stats card" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=earhengleap&theme=github_dark" alt="GitHub languages card" />
 </p>
 
 <p align="center">

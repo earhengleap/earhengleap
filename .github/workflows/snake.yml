@@ -18,8 +18,6 @@ jobs:
       - name: Generate static analytics cards
         run: |
           mkdir -p out/images
-          curl -fL --retry 5 --retry-delay 2 "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=earhengleap&theme=github_dark" -o out/images/gh-stats.svg
-          curl -fL --retry 5 --retry-delay 2 "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=earhengleap&theme=github_dark" -o out/images/gh-languages.svg
       - uses: Platane/snk@v3
         with:
           github_user_name: earhengleap
