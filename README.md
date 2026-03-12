@@ -43,6 +43,11 @@
       <img height="180" src="https://github-readme-stats.vercel.app/api?username=earhengleap&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
     </td>
     <td>
+      <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=earhengleap&theme=tokyonight" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr align="center">
+    <td colspan="2">
       <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=earhengleap&layout=compact&theme=tokyonight&hide=html,css" alt="Top languages" />
     </td>
   </tr>
