@@ -5,6 +5,10 @@
 </h1>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Location-Cambodia_🇰🇭-0056B3?style=flat-square&logo=googlemaps&logoColor=white" />
+</p>
+
+<p align="center">
   Building full-stack products with strong backend architecture and practical business outcomes.
 </p>
 
@@ -18,10 +22,14 @@
 
 ### 👨‍💻 About Me
 
-- 🚀 Full-stack engineer with a intensive product mindset.
+- 🚀 Full-stack engineer with an intensive product mindset.
 - 🏗️ Focused on scalable web applications, robust APIs, and maintainable systems.
 - 🛠️ Comfortable navigating across frontend, backend, and integration layers.
 - 📈 Constantly learning and exploring new technologies to solve real-world problems.
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=earhengleap&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</p>
 
 ---
 
@@ -77,5 +85,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Last_Updated-March_2024-blue?style=flat-square" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.%22;%22Simplicity+is+the+ultimate+sophistication.%22;%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22" alt="Daily Quote" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Last_Updated-March_2026-blue?style=flat-square" />
 </p>
