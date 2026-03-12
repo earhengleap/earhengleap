@@ -48,7 +48,7 @@
   </tr>
   <tr align="center">
     <td colspan="2">
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=earhengleap&layout=compact&theme=tokyonight&hide=html,css" alt="Top languages" />
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=earhengleap&layout=compact&theme=tokyonight&langs_count=10" alt="Top languages" />
     </td>
   </tr>
 </table>
